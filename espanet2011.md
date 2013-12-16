@@ -1,30 +1,12 @@
-% WHO GETS WHAT - AND WHERE
-% Regional poverty outcomes of social assistance in enlarged EU: The case of Poland and Austria
-% Markus Kainu [^1] - summer 2011
-
-[^1]: PhD student in Social Policy, Department of Social Research, University of Turku, Finland
-
-<link href="http://markuskainu.fi/material/css/article.css" rel="stylesheet" type="text/css" title="compact"></link> 
-<link href='http://fonts.googleapis.com/css?family=Alegreya+SC|Alegreya:400,200' rel='stylesheet' type='text/css'>
-
-<!-- 
-cd ~/workspace/eusilc/regional2013/2011
-pandoc -t html espanet2011.md -o espanet2011.html --standalone --bibliography=bib/bibtex.bib --number-sections
-
-
- -->
+<h1 class="title"> WHO GETS WHAT - AND WHERE</h1>
+<h2 class="author"> Regional poverty outcomes of social assistance in enlarged EU: The case of Poland and Austria</h2>
+<h3 class="date"> Markus Kainu - summer 2011</h3>
 
 <!-- \begin{abstract} -->
 **abstract**
 
 *Since 1989, the divide between Europe's East and West has been evident in terms of poverty and social and economical inequality. Over the transition period the between-nation inequalities have declined in the enlarged EU, while the regional inequalities have increased within most of the countries, especially within European post-socialist countries. As a result most of the economic inequalities today in enlarged EU are already inequalities within nations. An evident outcome of these increasing regional disparities is that poverty is becoming more and more rooted in place.  This seminar paper approaches poverty outcomes of social assistance from regional perspective. It addresses the question, to what extend socially targeted benefits can alleviate poverty that varies spatially. Preliminary analysis are conducted on social assistance benefits using EU2020 poverty indicators and 2008 EU-silc data from Poland and Austria.*
 <!-- \end{abstract} -->
-
-\thispagestyle{empty}
-
-\newpage
-
-\setcounter{page}{1}
 
 
 # Introduction
